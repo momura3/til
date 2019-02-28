@@ -1,4 +1,5 @@
-# Delete a branch if it is not merged  
+# Delete a branch  
+## Delete a branch if it is not merged  
 `git branch -D BRANCH`  
-# Delete a branch merget to HEAD
+## Delete a branch merget to HEAD
 `git branch --delete BRANCH`  
