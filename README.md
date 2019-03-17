@@ -6,3 +6,4 @@ Today I Learned
 - [linux](https://github.com/mizukichi3/til/tree/master/linux)
 - [vim](https://github.com/mizukichi3/til/tree/master/vim)  
 - [windows](https://github.com/mizukichi3/til/tree/master/windows)  
+- [mac](https://github.com/mizukichi3/til/tree/master/mac)
