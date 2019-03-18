@@ -4,6 +4,6 @@ Today I Learned
 # Categories
 - [git](https://github.com/mizukichi3/til/tree/master/git)
 - [linux](https://github.com/mizukichi3/til/tree/master/linux)
+- [mac](https://github.com/mizukichi3/til/tree/master/mac)
 - [vim](https://github.com/mizukichi3/til/tree/master/vim)  
 - [windows](https://github.com/mizukichi3/til/tree/master/windows)  
-- [mac](https://github.com/mizukichi3/til/tree/master/mac)
