@@ -2,6 +2,7 @@
 Today I Learned  
 覚えたことを書いていくリポジトリ  
 # Categories
+- [ansible](https://github.com/mizukichi3/til/tree/master/ansible)
 - [aws](https://github.com/mizukichi3/til/tree/master/aws)
 - [git](https://github.com/mizukichi3/til/tree/master/git)
 - [linux](https://github.com/mizukichi3/til/tree/master/linux)
