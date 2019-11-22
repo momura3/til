@@ -1,2 +1,2 @@
 # Git stash with comment  
-`git stash save <message>`  
+`git stash save "<message>"`  
