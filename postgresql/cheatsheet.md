@@ -6,4 +6,5 @@
 `set search_path to <schema>;` スキーマ変更  
 `\dt;` テーブル一覧  
 `\du;` ロール一覧  
-`select * from hoge where fuga \G` で縦になって出てくる  
+`\x` で見やすい形で出てくる  
+`timing` 実行時間出力
