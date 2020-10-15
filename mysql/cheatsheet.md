@@ -7,7 +7,7 @@
 ユーザを削除 `DROP USER <user name>;`  
 ## データベース関連  
 データベース一覧を表示 `show databases;`  
-使用するデータベースを選択 `user <database name>;`  
+使用するデータベースを選択 `use <database name>;`  
 データベース作成　`CREATE DATABASE <database name>;`  
 データベースを削除 `DROP DATABASE <database name>;`  
 ## テーブル関連
