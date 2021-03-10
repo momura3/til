@@ -22,7 +22,8 @@
 
 ## その他
 `psql -U <username> -h <hostname> -d <dbname>` 接続  
-`psql -U <username> -h <hostname> -d <dbname> < <filename>` ダンプファイルなど流し込み
+`psql -U <username> -h <hostname> -d <dbname> < <filename>` ダンプファイルなど流し込み  
+`psql -f <filename> -U <username> -h <hostname> -d <dbname>` これでもファイル流し込みできる  
 `\x` で見やすい形で出てくる  
 `\timing` 実行時間出力  
 `like '%hoge%'` 部分一致検索  
