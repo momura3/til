@@ -20,6 +20,9 @@
 `\du;` ロール一覧  
 `select * from current_user` 現在のユーザの確認  
 
+## ダンプファイル  
+`--schema-only` テーブル定義のみダンプする  
+
 ## その他
 `psql -U <username> -h <hostname> -d <dbname>` 接続  
 `psql -U <username> -h <hostname> -d <dbname> < <filename>` ダンプファイルなど流し込み  
