@@ -15,7 +15,7 @@
 ## テーブル関連
 テーブル一覧を表示 `show tables;`  
 テーブルを削除 `DROP TABLE <table name>`  
-テーブルのデータを更新 `UPDATE <table name> SET <column name> = <value> WHERE <条件>`
+テーブルのデータを更新 `UPDATE <table name> SET <column name> = <value> WHERE <条件>`  
 テーブルのデータを削除 `DELETE FROM <table name> WHERE <削除する条件>`  
 ## その他  
 `select * from <tablename> \G` で見やすく出力  
