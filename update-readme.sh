@@ -16,3 +16,6 @@ EOF
 for dir in ${dirs}; do
   echo "- [${dir}](https://github.com/mizukichi3/til/tree/main/${dir})" >> README.md
 done
+
+#TODO: git add, commit, pushまでやりたい
+#TODO: ディレクトリ増えたら自動で走るようにしたい
